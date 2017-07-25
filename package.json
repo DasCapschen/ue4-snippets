@@ -1,7 +1,7 @@
 {
   "name": "ue4-snippets",
   "main": "./lib/ue4-snippets",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "Adds useful snippets for writing Unreal Engine 4 C++ Code. (especially useful on Linux)",
   "keywords": [
     "snippet",
